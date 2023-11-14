@@ -4,4 +4,4 @@ Hi. Recently, my friend's Steam account was hacked. I looked into the issue and 
 
 ## How to fix
 
-I wrote a simple script to remove the DLL and scan the drivers. Just run the EXE and grant it administrator privileges (this is necessary for the driver scan). If you don't want to run the executable, you can build the fix yourself from the source code (Python 2.x required).
+I wrote a simple script to remove the DLL and scan the drivers. Go to the releases page, download the EXE, and run it. It's going to warn you that Defender protected your computer, this happens with all executables, it's not a problem. Click "more info" and click "run anyway". The program should prompt you for administrator privileges (this is necessary for the driver scan). If you don't want to run the executable, you can build the fix yourself from the source code (Python 2.x required).
